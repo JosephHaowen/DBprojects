@@ -1,0 +1,5 @@
+This code is finished by Haowen Tao and Hanwen Wang.
+
+We referred the material about B+ tree on textbook "Database Management System, 3rd Edition"
+
+If the last key in the tree (or in the root) is deleted, then set the root to null. 
